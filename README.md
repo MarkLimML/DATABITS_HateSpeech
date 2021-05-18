@@ -1,5 +1,5 @@
 # DATABITS Project
-## Analyzing toxic speech on twitch for streamers who have chat rules and streamers who don't have chat rules
+## Effectiveness of Twitch Chat Rules
 
 ## Dataset
   The dataset collected for this project was from the popular streaming platform Twitch, more specifically from the gaming genre. The data was from a total of 8 streamers, 4 of which implments chat rules and 4 who does not. These chat rules can be seen in the respective streamer's about page. The streamers with rules are Ninja, TimTheTatMan, MOONMOON, and GeekandSundry. The streamers who does not implement chat rules are Shroud, DrLupo, Summit1g, and Lirik.
