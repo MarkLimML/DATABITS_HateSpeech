@@ -18,15 +18,15 @@
 For streamers with no rules, the group was able to gather 1,873,772 chat lines.
 
 #### No Pre-processing
-![WordCloud No pre processing](images/norules/Words%20frequent%20in%20chat%20Without%20Rules(No%20preprocessing).png)
+![WordCloud No pre processing](images/norules/word_no_processing.png)
 
 ### After Pre-processing
-![WordCloud after pre processing](/images/norules/Words%20frequent%20in%20the%20streamer%20chats%20With%20No%20Rules%20(After%20Pre-processing).png)
+![WordCloud after pre processing](images/norules/word_processed.png)
 
   For before and after pre-processing, we could see that stop words were removed and the streamer name 'shroud' was also removed from the wordcloud.
 
 ### Top 50 words
-![Top 50 words](/images/norules/Top%2050%20words%20in%20streamer%20chats%20with%20no%20rules.png)
+![Top 50 words](/images/norules/top_50.png)
 
   For the top 50 words that are frequent in the toxic chats, we can see that there are a lot of curse words such as f\*ck, sh\*t and wtf. We can also see a lot of derogatory and inaapropriate words such as fat, c\*ck, ass, gay, hell, and d\*ck.
 
@@ -35,10 +35,10 @@ For streamers with no rules, the group was able to gather 1,873,772 chat lines.
 For streamers with no rules, the group was able to gather 1,311,976 chat lines.
 
 #### No Pre-processing
-![WordCloud No pre processing](/images/withrules/Words%20frequent%20in%20the%20chats%20With%20Rules(Before%20Pre-processing).png)
+![WordCloud No pre processing](/images/withrules/words_no_processing.png)
 
 ### After Pre-processing
-![WordCloud after pre processing](/images/withrules/Words%20frequent%20in%20streamer%20chats%20With%20Rules%20(After%20Pre-processing).png)
+![WordCloud after pre processing](/images/withrules/word_process.png)
 
   For before and after pre-processing, we could see that there exists more words inside the wordcloud for data with no pre-processing. After processing the data, we could see that the ammount of words significantly lowered. The word *bidet* stood out so the group searched why people are chatting this. It turns out that the word bidet, acoording to a reddit post[1] is a misspronounced "good day".
 
@@ -46,7 +46,7 @@ For streamers with no rules, the group was able to gather 1,311,976 chat lines.
 
 
 ### Top 50 words
-![Top 50 words for with rules](/images/withrules/Top%2050%20words%20in%20chats%20With%20Rules(After%20Pre-processing).png)
+![Top 50 words for with rules](/images/withrules/top_50.png)
 
   For the top 50 words that are frequent in the toxic chats, we can see that the front runners are the same with the chat with no rules these are f\*ck, sh\*t and wtf. We can also see a lot of derogatory and inaapropriate words such as damn, hell, ass, and d\*ck. 
 
@@ -54,11 +54,11 @@ For streamers with no rules, the group was able to gather 1,311,976 chat lines.
 ## Merged Data
 
 ### Frequent in both rules and without rules chat
-![Top 50 words for with rules](/images/merge/Top%2050%20words%20in%20With%20VS%20Without%20Rules.png)
+![Frequent Words](/images/merge/words_frequent)
 
 
 ### Top 50 words in both rules and without rules chat comparison
-![Top 50 words for with rules](/images/merge/Words%20frequent%20in%20the%20Merged%20Data)
+![Top 50 words for with rules](/images/merge/top_50.png)
   
   In the top 50 words for merged data, we can see that the top 5 words are the curse words, derogatory words and innapropriate words. Chat with rules and chat without rules seems to have similar toxic words they receive, however the quantity varies significantly.
 
