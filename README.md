@@ -1,4 +1,5 @@
 # DATABITS Project
+
 ## Effectiveness of Twitch Chat Rules
 
 ## Dataset
@@ -17,8 +18,10 @@
 ## For Streamers With No Rules
 For streamers with no rules, the group was able to gather 1,873,772 chat lines.
 
+
 #### No Pre-processing
 ![WordCloud No pre processing](images/norules/word_no_processing.png)
+
 
 ### After Pre-processing
 ![WordCloud after pre processing](images/norules/word_processed.png)
@@ -34,8 +37,10 @@ For streamers with no rules, the group was able to gather 1,873,772 chat lines.
 ## For Streamers With Rules
 For streamers with no rules, the group was able to gather 1,311,976 chat lines.
 
+
 #### No Pre-processing
 ![WordCloud No pre processing](/images/withrules/words_no_processing.png)
+
 
 ### After Pre-processing
 ![WordCloud after pre processing](/images/withrules/word_process.png)
