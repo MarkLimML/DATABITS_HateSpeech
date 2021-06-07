@@ -19,7 +19,7 @@
   - offensive_language - this contains a float value which the hate sonar classifies the text as an offensive language
   - neither - this contains a float value which the hate sonar classifies the text as containing neither hate nor offensive language
 
-   As the datasets were loaded into a dataframe, the columns hate_speech, offensive_language, and neither were removed because these are unnecesary columns for this study. For the top_class column, the group decided to create another column called toxic, which is a binary representation of whether the text is not toxic (0) or toxic (1). Below is a sample table after doing these steps.
+   As the datasets were loaded into a table, the columns hate_speech, offensive_language, and neither were removed because these are unnecesary columns for this study. For the top_class column, we decided to create another column called toxic, which is a binary representation of whether the text is not toxic (0) or toxic (1). Below is a sample table after doing these steps.
 
 ![Sample Table](/images/others/sample_table.PNG)
 
