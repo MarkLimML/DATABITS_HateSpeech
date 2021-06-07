@@ -3,7 +3,7 @@
 ## Effectiveness of Twitch Chat Rules
 
 ## Dataset
-  Twitch is one of the most popular live streaming platforms on the market today. Created by Justin Kan and Emmett Sheer on 2007, Twicth has been the avenue where content creators share their experiences with an audience and interact with them in real time. However, with the rise of usage comes with implementation of rules and regulations to manage all the users that Twitch has in its platform. The rules includes but not limited to the following:
+  Twitch is one of the most popular live streaming platforms on the market today. Created by Justin Kan and Emmett Sheer on 2007, Twitch has been the avenue where content creators share their experiences with an audience and interact with them in real time. However, with the rise of usage comes with implementation of rules and regulations to manage all the users that Twitch has in its platform. The rules includes but not limited to the following:
   - Limitation of contents posted in their platform (Disallowing content creators to post sexual and obscene contents)
   - Prohibitation of using hateful speech and harassment towards other people and content creators
   - Insuing threats upon other users and Wrongfully impersonating someone
