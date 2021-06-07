@@ -82,3 +82,7 @@ For streamers with rules, the group was able to gather 1,311,976 chat lines.
 ### Conclusion
   
   In this data project, the goal is to know wheter having chat rules in Twitch livestream chats in the Gaming genre. Based on the gathered data, streamers who implements chat rules and those who does not, encounters the same toxic words such as f\*ck, sh\*t, wtf, c\*ck, h\*ll, b\*tch and many more. However, the quantity of toxic words in the streamer's chat would recieve varies a lot. When comparing chat with rules and without rules, the frequency of toxic words a streamer receives for chat without rules are signicantly higher which results in a more toxic and more over the top stream themes. With that, we can conclude that imposing chat rules is beneficial to impose a better and safer environment of the community and improve the overall stream vibes. As such, based on the initial findings, we recommend streamers to implement and enforce chat rules to lessen the amount of toxicity present in their chat.
+
+### Recommendation
+
+  We recommend for future researchers to consider the context of all the chat from start to finish as well as taking to account the title and the game played of the stream to know what kind of stream it is supposed to be. Thus, providing the sonar a more accurate representation of which speeh is considered as toxic or not based on the overlying context that is brewing in the chat during the livestream.
